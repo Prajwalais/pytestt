@@ -14,4 +14,4 @@ if __name__ == "__main__":
     age = 19
     course = "CS"   
 
-    print(student_details(student_id, name, age, course))
+    print(student_details(id, name, age, course))
