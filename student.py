@@ -9,7 +9,7 @@ def student_details(student_id, name, age, course):
 
 
 if __name__ == "__main__":
-    student_id = 183
+    id = 183
     name = "Prajwal"
     age = 19
     course = "CS"   
